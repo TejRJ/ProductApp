@@ -9,7 +9,10 @@ A simple React application to manage a product catalog with features to add, edi
 ### Prerequisites
 
 - Node.js and npm installed on your machine
+<<<<<<< HEAD
 - MongoDB runs properly on your system
+=======
+>>>>>>> 5404a098784ca0ebfbc5d84569aa6b62bee5615a
 - Backend API running at `http://localhost:5000/products` with standard REST endpoints (`GET`, `POST`, `PUT`, `DELETE`)
 
 ### Steps to Run
